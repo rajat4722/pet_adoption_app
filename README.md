@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/pet-adoption-app.git
+https://github.com/rajat4722/pet_adoption_app.git
 Navigate to the project directory:
 
 bash
